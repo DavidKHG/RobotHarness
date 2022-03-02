@@ -1,4 +1,6 @@
 Main switch harness configuration.
 
 
-v0.0.1
+Add pin for additional function of AROUND-C2
+
+v0.1.0
