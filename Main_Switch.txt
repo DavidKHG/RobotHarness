@@ -1,0 +1,3 @@
+Main switch harness configuration.
+
+v0.0.1
