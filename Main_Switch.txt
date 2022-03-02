@@ -1,3 +1,5 @@
 Main switch harness configuration.
 
-v0.0.1
+length changed. (120mm -> 180mm)
+
+v0.0.2
