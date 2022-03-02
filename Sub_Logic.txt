@@ -1,3 +1,5 @@
 Sub_Logic Harness condiguration.
 
-v0.0.1
+Pin-swapped. 1-3 pin changed.
+
+v0.0.2
