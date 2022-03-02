@@ -2,4 +2,6 @@ PC_Power harness configuration.
 
 pin number 6
 
-v0.0.2
+length 250
+
+v0.0.3
